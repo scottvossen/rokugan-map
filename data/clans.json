@@ -1,0 +1,189 @@
+[
+  {
+    "id": "crab",
+    "name": "Crab",
+    "color": {
+      "primary": "#004040",
+      "secondary": "darkslateblue"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "crab.png",
+      "pos" : [ 100, 440 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-crab.jpg",
+      "html" : "<p>No clan in the history of Rokugan can hope to rival the reputation the Crab Clan has for resilience and siege prowess. The Kami Hida, son of the Sun and Moon, brother of the Emperor, volunteered to defend the Empire from the nightmarish demons of the Shadowlands, far south of Rokugan. In the wake of the war with Fu Leng, the Empire had a great deal of fear regarding the Shadowlands, but fear was not something that Hida and his followers understood. They were warriors whose sheer physical power was without compare, and for centuries they stood against an enemy limitless in number and unrivaled in evil. After seven centuries, they constructed the Great Carpenter Wall, at that time the single most amazing edifice in existence, to keep the demon hordes at bay, and their brave warriors stood atop it in the face of absolute, unwavering evil from the demons and monstrosities of the Shadowlands.</p>\n<p>Although there have been periodic incursions throughout history, the Crab have only ever truly failed once, during the Destroyer War, and only then because the demon goddess Kali-Ma had an entire nation transformed into her inhuman, tireless soldiers. The Crab lost the Wall and their lands, but they never stopped fighting, never surrendered, never gave up the will to live. Their ranks were thinned horrifically, and their lands subjected to ruin the likes of which only the Scorpion Clan could rival. Despite the losses, despite the horror, the six families of the clan survived to serve in a new era.</p>\n<ul>\n    <li>The Hida are the lords of the clan and the among the greatest warriors in the land.</li>\n    <li>The Hiruma are the scouts and guardians of the Crab, gathering vital information.</li>\n    <li>The Kaiu are the greatest engineers and siege masters, maintaining the Wall.</li>\n    <li>The Kuni are the clan’s sinister shugenja, understanding a darkness no one else can.</li>\n    <li>The Yasuki are the merchant lords, ensuring that the never-ending war is paid for.</li>\n    <li>The Toritaka, once the Falcon Clan, are the hunters of spirits and ghosts.</li>\n</ul>\n<p>The years since the Destroyer War have been difficult but productive for the Crab. No clan’s lands suffered the same extensive devastation as the Crab’s, and it required an enormous resource-harvesting endeavor from the Colonies to bring them back to full productivity. The current political situation is one that most Crab find exasperating, to say the least. A foe that cannot simply be crushed on the battlefield is one that the Crab do not wish to deal with. Their closest allies, in defiance of a thousand years of history, remain the Scorpion, with whom they have bonded over their shared duty of protecting the Empire from the threats of portals to the Realm of Evil.</p>\n<p>Hida Kisada, the great-grandson of the Clan War hero of the same name, leads the Crab Clan with a steady hand and a discriminating eye. He dispatched his own brother, Kuni Renyu, to oversee affairs in the Colonies, and is greatly disturbed by the news his brother has sent him back. Kisada understands the reasons that the Spider were permitted to take Great Clan status, but has begun to wonder if it is not time that mistake was corrected.</p>"
+    }
+  },
+  {
+    "id": "crane",
+    "name": "Crane",
+    "color": {
+      "primary": "#9ebcc7",
+      "secondary": "white"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "crane.png",
+      "pos" : [ 250, 330 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-crane.jpg",
+      "html" : "<p>During the dawn of the Emerald Empire, it was the Emperor’s beloved sister, Lady Doji, who created the traditions and customs that would become the social system of Rokugan. In the one thousand years since that time, there have been precious few times that the Crane have not utterly dominated the social environment of the Empire. The reign of the Hantei Dynasty was a period of prosperity for the Crane, with the clan supplying wives to almost all the Emperors of that line, and dominating the position of Emerald Champion for much of that time. The beauty of the Crane’s system is that they reinforce their dominance of social conventions through iaijutsu, the formal dueling method that is used to resolve differences. The fact that the Crane were partially responsible for the creation of the Empire’s justice system and the emphasis on iaijutsu, an art at which the Crane are unquestionably the masters in the whole of the Empire.</p>\n<p>The wars that ravaged Rokugan a generation ago took a significant toll upon the Crane. Decades of war were ushered in by the Clan War, a war which saw many of the clan’s most productive lands razed by one enemy or another. The Crane struggled to recover, but with each successive war it seemed that their situation only grew more dire, culminating in the Destroyer War, which largely spared the Crane lands, but during which a virulent plague decimated both the population and the crops, leaving the Crane in an absolutely terrible state, with their ability to survive the end of the war in question. Despite the hardships, all four of the clan’s families survived the war and emerged to serve the clan during a new era.</p>\n<ul>\n    <li>The Doji are the lords of the clan, the masters of court.</li>\n    <li>The Kakita serve their lords as yojimbo and peerless duelists.</li>\n    <li>The Daidoji fill the ranks of the clan’s armies and scout the lands of enemies.</li>\n    <li>The Asahina maintain the clan’s spirituality and its vast network of temples.</li>\n</ul>\n<p>The tumult in the Colonies in recent years has not been to the liking of the Crane, who are never more successful than during times of peace. The Crane excel at politicking and diplomacy, and conflict only complicates such things. Since the withdrawal of P’an Ku from the mortal realm, the Crane have seized the opportunity and, in the wake of their recent war with the Mantis Clan, are trying to achieve dominance on the Colonial courts as they have in the courts of the Empire. Their efforts are no unopposed, however; the Mantis continue to bear them significant ill will, and the Scorpion enjoy foiling the Crane for sport, ensuring that their task will not be a simple one.</p>\n<p>The Crane Clan Champion, a darling of the court beloved by all, is Doji Makoto, a man sometimes called the Smiling Blade. Though Makoto has numerous enemies, there are few if any who can truly say that they do not like the man, at least on a personal level, and it is this simple fact that makes him dangerous. With the gifts at his command, Makoto could rule the courts with an iron fist, but he prefers to be given that which he requires, rather than taking it by force. Under his command, the Crane have retaken their rightful place as the lords of the court.</p>"
+    }
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon",
+    "color": {
+      "primary": "darkgreen",
+      "secondary": "#c5c144"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "dragon.png",
+      "pos" : [ 180, 40 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-dragon.jpg",
+      "html": "<p>While the roles and the duties of the other Great Clans has always been relatively straightforward, the Dragon Clan has always been something of an enigma. Founded by the Kami Togashi, the most mysterious of the children of the Sun and Moon, the Dragon Clan was founded with the purpose to watch over the rest of the Empire, and watch they did. For more than one thousand years, the Dragon remained almost entirely apart from the other clans, engaging them in battle rarely and in court only slightly more frequently. Few could claim to understand the Dragon or their motivations, at least until the Clan War, when at last the Kami Togashi, still alive in spirit if not in flesh, led the early days of the campaign against Fu Leng, when the other clans were still at one another’s throats. The Dragon suffered significant losses during the Clan War, and even more in the years immediately following, but for the first time they truly gained the respect of the other clans.</p>\n<li>Most other Great Clans suffered significantly during the Destroyer War a generation ago, but by the time that conflict erupted, the Dragon were already in a precarious position. A previous conflict, a diversion enacted by the Destroyers to confound the Empire known as the War of Dark Fire, laid waste to entire provinces of the Dragon lands, and the clan narrowly escaped destruction. By the time the Destroyer War proper had concluded, the Dragon were in the early stages of recovery, and as such were appointed by the Divine Empress as responsible for overseeing the activities of the newly created Spider Clan. Four families serve the clan in the fulfillment of this and other duties:</li>\n<ul>\n\t<li>The Mirumoto are the lords of the clan and the practitioners of the two-blade style.</li>\n\t<li>The Kitsuki represent the clan in court and serve as its magistrates.</li>\n\t<li>The monks of the Togashi order are the sensei and philosophers of the clan.</li>\n\t<li>The Tamori serve as priests of the kami and guide the clan’s spirit.</li>\n</ul>\n<p>The Dragon are the uneasy stewards of the Spider Clan, having been entrusted with their supervision by the Divine Empress upon the eve of the Spider’s creation. It is only just, the Dragon reckon, for the Empress was once one of them. Who else could she entrust with such a task? It has not been a simple matter, however, and in the face of growing evidence that the Spider are responsible for highly questionable things, the Dragon must accept that their charges may have deceived them, and in doing so dishonored them by association. It is not a fate that the Dragon will accept softly.</p>\n<p>There are few men in the Empire stranger than the Dragon Clan Champion, Mirumoto Shikei. Jointly trained by the Mirumoto and Togashi, the man called the Laughing Dragon is one of the most well-known and oft-reviled men in Rokugan. His failed engagement to the Unicorn Clan Champion has caused many to look upon him with great resentment, but Shikei understands that fate has something grand in store for him and his clan. He simply does not yet know what it will be.</p>"
+    }
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "color": {
+      "primary": "gold",
+      "secondary": "yellow"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "lion.png",
+      "pos" : [ 220, 150 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-lion.jpg",
+      "html": "<p>For more than one thousand years, the Lion Clan has served as the Right Hand of the Emperor. They are the greatest military force in the known world, the sword that destroys all that threaten the Emperor or the Empire. In the eyes of many throughout the Empire, the Lion embody honor and tradition, for all the good and bad that such a description implies. Among the ranks of the Lion, four families work together as one to create an unstoppable military might.</p>\n<ul>\n\t<li>The sons of Akodo produce the greatest officers and commanders in the Empire.</li>\n\t<li>The daughters of Matsu supply the ranks of Rokugan’s most numerous armies.</li>\n\t<li>The scions of Ikoma serve as scouts and diplomats who sing the clan’s praises.</li>\n\t<li>The heirs of Kitsu commune with the sacred ancestors of the Lion for guidance.</li>\n</ul>\n<p>The path of the Lion has not been an easy one, however. A rapid succession of wars, culminating in the devastation of the Destroyer War, greatly depleted even the vast ranks of the four Lion armies, ultimately causing them to be combined into three. Even worse, the clan’s holdings were laid to waste by plague and the hungry dead that the supernatural plague produced, leaving them nearly unable to feed those Lion who remained alive. It was a time of misery and suffering, but over the course of two decades, the clan has worked tirelessly to rebuild, and now the Lion stand strong once more.</p>\n<p>The Empire has enjoyed a generation of relative peace, all save the Lion. Not because they have known war, but because they have not enjoyed peace by any means. The Lion are warriors, and it is war that they crave. The brief conflict with the Crab and the small-scale battle with the Yodotai exiles north of the Colonies have only whetted the Lion’s appetite for battle. They crave more, and they are eager to find a way to achieve that which they seek. The first clan to draw the ire of the Lion will be a clan that deeply regrets their actions.</p>\n<p>The Lion Clan Champion, Akodo Dairuko, the Steel Lion, recently traveled to the Colonies. One of the first ‘proper’ Champions to do this, Dairuko traveled there to deal with the threat of a potential invasion by the Yodotai Empire. Fortunately, the culprits proved to be a splinter group, easily eradicated by cooperation between the Lion and the Unicorn. Having completed her endeavors in the Colonies, the Lion Champion prepares to return to the Empire, but will not find things exactly as she left them.</p>"
+    }
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "color": {
+      "primary": "#3c874f",
+      "secondary": "forestgreen"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "mantis.png",
+      "pos" : [ 315, 475 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-mantis.jpg",
+      "html": "<p>Alone among the Great Clans, the Mantis Clan has carved its position from the world by pure force of will, seizing destiny where others merely accept what is offered to them. The Mantis began existence in the early centuries of the Empire, when the Hantei Dynasty was yet young. Born of the Crab and Lion, the young hero Kaimetsu-uo forged his own path when his sibling was chosen as heir by his father, the Crab Clan Champion, and sailed to the distant Islands of Silk & Spice to create his own legacy. The Mantis were among the very first Minor Clans, and existed as such for hundreds of years until the unprecedented days of the Clan War, when the Mantis Champion Yoritomo stood among the Great Clan Champions and demanded his place among their ranks. The others accepted, pending success upon the battlefield that day, and the Mantis fought harder than any others. The day was one, the Toturi Dynasty was created, and the Mantis Clan ascended to the position of Great Clan. Since that time, three more families have joined the clan, and together, they stand tall and proud among their comrades as the house of the Mantis Clan.</p>\n<ul>\n\t<li>The Yoritomo lead the clan in the name of their founder, the peerless hero.</li>\n\t<li>The Moshi guide the clan’s spirit, embracing their ways and forging one path.</li>\n\t<li>The Tsuruchi lend their bows and their skill at hunting to the family’s pursuits.</li>\n\t<li>The Kitsune lend their magic and their respect in the courts to the clan’s work.</li>\n</ul>\n<p>Despite their position as equals among the other Great Clans, the Mantis remain somewhat apart from their peers. They are separated both by geography and philosophy, for the Mantis believe in their hearts that the other clans have never truly accepted them and perhaps never truly will. The recent conflict that the clan experienced with the Crane Clan within the boundaries of the Colonies only reinforced the opinion of many Mantis that the other clans do not consider them equals, and while they profess not to care about the opinion of others, the matter rankles them. They have continued to maintain their position of dominance in the Colonies, both in terms of the volume of territory they control and their familiarity with the territory claimed by others.</p>\n<p>The Mantis Clan Champion is Yoritomo Hiromi, known by some as the Growing Storm. His nickname is a result of his sour disposition, and it is said by some, even among his own clan, that Hiromi will never be satisfied until he is convinced that the Mantis are recognized as equals by the other clans, and that he will never consider this achieved until the Mantis stand above all others.</p>"
+    }
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "color": {
+      "primary": "#ad4a12",
+      "secondary": "maroon"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "phoenix.png",
+      "pos" : [ 285, 25 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-phoenix.jpg",
+      "html": "<p>Although the titles affiliated with many Great Clans can be and are disputed by others, such as the Lion’s status as the preeminent military power in the Empire, the status of the Phoenix Clan as the greatest shugenja in the Empire has never been questioned, or at least not publically. For reasons owing both to heredity as well as the teachings of the clan’s founders, there are none in the Empire who can rival the sheer power and number of shugenja that the Phoenix can field. Truly, their priests are beloved by the kami, who answer their prayers with great vigor and relish.</p>\n<p>The history of the Phoenix Clan is unusual, compared to most. It was created when Shiba, a child of the Sun and Moon, knelt before the mortal Isawa and pledged to protect his line for all time. Isawa and his tribe were known in the early Empire to be the most powerful sorcerers, and Shiba knew that they were needed to create a stable domain for his brother’s new nation. Thus thePhoenixwere created, and despite a turbulent past with frequent incidents of members falling to darkness in pursuit of knowledge, the clan has remained the preeminent mystical force in an entire Empire. In the modern age, four families stand united in this purpose:</p>\n<ul>\n\t<li>The noble Shiba take up steel in defense of the clan and the other families.</li>\n\t<li>The powerful Isawa rule the clan and delve into the mysteries of the elements.</li>\n\t<li>The monastic Asako enforce the purity of the clan in the face of great temptation.</li>\n\t<li>The versatile Agasha, once vassals of the Dragon, explore new methods of magic.</li>\n</ul>\n<p>The Phoenix have long been the advocates of peace among the Great Clans, at least as much as any samurai can truly advocate for peace. The difficulties in the Colonies, with the mad dragon P’an Ku and the heretical philosophy of Fudoism, weigh heavily upon the Phoenix, who view themselves as the stewards of Rokugan’s spiritual well-being. In the wake of these tragedies, the Phoenix have devoted themselves to discovering what makes the mortal soul vulnerable to the corruption of a supernatural nature. By discovering the truth, they hope to aid all of Rokugan in becoming pure forever.</p>\n<p>The Blind Phoenix, Shiba Tsukimi, has held the position of Phoenix Clan Champion for decades. She has struck a balance between her position and the Council of Elemental Masters that has rarely existed throughout the history of the Phoenix, but which her wisdom, patience, and humility has dispelled with the lingering hostility and arrogance that has long prevented such things. Years ago, she was poisoned by a Scorpion’s blade, and in saving her life, the Master of the Void merged Tsukimi’s soul with the Void in an as yet unknown manner. Of late, Tsukimi has grown increasingly withdrawn from the mortal world, growing more and more concerned over oddities in the tapestry of the Void that she has seen coming in the near future.</p>"
+    }
+  },
+  {
+    "id": "scorpion",
+    "name": "Scorpion",
+    "color": {
+      "primary": "#48050d",
+      "secondary": "#822e24"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "scorpion.png",
+      "pos" : [ 180, 260 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-scorpion.jpg",
+      "html": "<p>Throughout history, few clans have been as reviled as the Scorpion Clan. Founded by the wily and manipulative Bayushi, the Scorpion’s Kami was tasked by the first Emperor to ensure that his clans never turned against him. Bayushi and his followers accomplished this most sacred task by providing the other clans with a villain they could despise, in order to ensure that they never turned their thoughts to claiming the throne for themselves. Toward this purpose, the Scorpion embraced all manner of tactics and customs considered disgraceful by the other clans, and were generally regarded as dishonorable in all cases. The one true virtue espoused by the Scorpion, however, was that of loyalty; just as the Scorpion were loyal to the throne, each individual samurai was undyingly loyal to his superiors. It was only through this method that the clan could survive.</p>\n<p>The Scorpion have sacrificed a great deal in the fulfillment of their duties. The clan’s Champion succumbed to supernatural influences and assassinated the Emperor in an attempt to save the Empire, and the clan was disbanded for it, although later restored by a subsequent dynasty. They were later banished from the Empire for suspicion of complicity in the disappearance of another Emperor. Most recently, the clan’s homeland was the scene of the most fearsome and violent fighting during the final months of the Destroyer War, and not only were many provinces utterly razed, but a permanent portal to the Realm of Evil was torn open in their lands, requiring them to build many safeguards around it to ensure that the demons within could not escape. Despite these hardships, the clan’s loyalty has never wavered, and the current families in service to the Scorpion Clan include the following:</p>\n<ul>\n\t<li>The Bayushi are the lords, the soldiers, and the courtiers of the clan.</li>\n\t<li>The Shosuro are the scouts, assassins, and infiltrators of the clan.</li>\n\t<li>The Soshi are the magistrates and one shugenja family in service of the Scorpion.</li>\n\t<li>The Yogo are the inquisitors and the second shugenja family of the clan.</li>\n</ul>\n<p>Little else delights the Scorpion Clan quite the way that discord does, and the past two years of upheaval and chaos in the Colonies has afforded them unprecedented opportunities to gain leverage on their enemies and to deceive their way into alliances with previously unfriendly rivals. Even now, with the chaos subsided, the continuing capriciousness of the Imperial Governor is very much to the Scorpion’s liking, and the rumors of the impending arrival of the Shogun, or even the eldest Imperial heir, have the entire clan conspiring for how to best exploit the situation.</p>\n<p>A thin layer of the finest silk draped across a bloodied blade. That is the closest comparison to the sinister Bayushi Nitoshi, Scorpion Clan Champion, that any might ever truly come. Renowned in court for his handsomeness and his wit, Nitoshi has never married, and most who would seek his hand find themselves discouraged by the cold, dead quality found in his eyes.</p>"
+    }
+  },
+  {
+    "id": "spider",
+    "name": "Spider",
+    "color": {
+      "primary": "#504647",
+      "secondary": "black"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "spider.png",
+      "pos" : [ 32, 220 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-spider.jpg",
+      "html": "<p>The youngest of the Great Clans, the Spider Clan is despised by virtually everyone, with only the most corrupt and manipulative of the samurai caste finding any real value in their ranks. Perhaps this is understandable, given the questionable nature of the Spider’s ascension to the ranks of the Great Clans. For more than a thousand years, those corrupted by the touch of Jigoku, the spiritual Realm of Evil, have been the enemies of the Emerald Empire. It was not until the leadership of a man called Daigotsu that the corrupt were shaped into the self-styled Spider Clan, and during the Destroyer War, the Spider fought alongside the other clans in an attempt to save the Empire from absolute destruction at the hands of the Destroyer goddess, Kali-Ma. While the other clans sought to protect their homes, however, Daigotsu and his legions fought to preserve the Empire so that they could in time claim it for their own.</p>\n<p>At the concl usion of the Destroyer War, Daigotsu ascended to assume control over the Realm of Evil, and as a divine being, he sued for peace with the Empress of Rokugan. In exchange for halting the spread of the Shadowlands Taint, the touch of evil in the mortal world, the Empress would grant Daigotsu’s vassals the title of Spider Clan, an official Great Clan under the rule of his son, Kanpeki. So it was that two decades ago, the Spider became a Great Clan, and now four groups serve the clan.</p>\n<ul>\n\t<li>The scions of Daigotsu are the lords and masters of the Spider Clan.</li>\n\t<li>The monks of the Order of the Spider represent the clan’s interests in Rokugan.</li>\n\t<li>The Goju and Ninube families, servants of Daigotsu’s ally the Shadow Dragon, remain a secret even from the other clans, and serve the Spider in the darkness.</li>\n</ul>\n<p>For nearly three decades, the Spider have been reviled by the other Great Clans as few groups in history have ever experienced. Only now, in the Colonies, do they begin to enjoy the benefits of allies, and even then only hesitantly. The most important thing to Spider Clan in the modern era is that the Empress has not yet declared her successor, and the possibility that Iweko Shibatsu, who was reared by the Spider, might take the throne is too great an opportunity for the Spider to pass up. The possibility of an Emperor sympathetic to the Spider is an outcome that Kanpeki and his vassals will do anything to achieve.</p>\n<p>There is no mortal being more hated and feared than the Spider Clan Champion, Daigotsu Kanpeki. In addition to being perhaps the most physically powerful warrior in all of Rokugan and its Colonies, Kanpeki has at his command a legion of absolutely loyal warriors, many of whom possess dark supernatural powers that cannot easily be combated by the average samurai. Despite that many wish to see him dead or at the very least humbled, Kanpeki’s apparent loyalty to the Divine Empress has stayed the hand of even his most ardent enemies. How long can loyalty endure in the face of such naked hatred?</p>"
+    }
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn",
+    "color": {
+      "primary": "#462143",
+      "secondary": "#9b4687"
+    },
+    "status": "major",
+    "mon": {
+      "src" : "unicorn.png",
+      "pos" : [ 40, 125 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-unicorn.jpg",
+      "html": "<p>Sons and daughters of the Lady Shinjo, the most compassionate of the children of the Sun and Moon, the Unicorn Clan has long sought to find its place in an Empire that forgot about them during a long and difficult absence. Early in the existence of the Empire, when the first war with the dark god Fu Leng had been concluded, Lady Shinjo petitioned her brother the Emperor for the right to travel the world and discover other potential threats like Fu Leng. If the Empire was ignorant of such threats, she reasoned, it could not hope to stand against them. The Emperor reluctantly agreed, and Lady Shinjo and her followers departed from the Empire amid much fanfare and mourning. For more than seven centuries, the Unicorn wandered the world beyond Rokugan, encountering countless cultures and gaining many allies and enemies. When the clan finally returned to Rokugan, many doubted their identity, for most had assumed the followers of Lady Shinjo had been dead for centuries. In time, the Unicorn proved their identity through political favors and battlefield victories, and they were granted their position and their old lands.</p>\n<p>The acceptance of the other Great Clans was not easily gained, however. It has only been through their tireless efforts in terrible battles such as those of the Destroyer War that the Unicorn have come to be accepted as equals. When the hordes of Kali-Ma threatened the Empire, the Unicorn rose to stand shoulder to shoulder with their brothers among the Crab and Lion, and together the three clans held the line until a solution could be found to the plague crippling the Empire. In the modern era, there are five families who serve the Unicorn:</p>\n<ul>\n\t<li>The Moto rule the family and serve as the bulk of its armies.</li>\n\t<li>The Shinjo are the scouts and tacticians who guide the clan’s armies to victory.</li>\n\t<li>The Utaku are the most elite cavalry force in the Empire, feared by all.</li>\n\t<li>The Iuchi master the many forms of magic the clan encountered while traveling.</li>\n\t<li>The Ide represent the Unicorn’s interests in the various courts of Rokugan.</li>\n</ul>\n<p>Like the Mantis, the Unicorn feel truly at home in the Colonies, which is both a frontier and yet part of the Empire that they call home. The difficulties in that distant land have affected the Unicorn perhaps more than most, for the violence among the lower castes and the large-scale riot that plagued their headquarters at Journey’s EndCity have been difficult losses from which to recover. Recover they have, however. Now, with the impending arrival of one of their most powerful members, the Shogun, the Unicorn hope to restore proper order to the Colonies and convince the other clans that the time for hostilities is past.</p>\n<p>There are few more beloved figures in Rokugan than the Unicorn Clan Champion, Moto Naleesh. It is recognized throughout the Empire that Naleesh is the reincarnated soul of Shinjo, the Kami who fell from the Heavens with her siblings and who went on to form the Great Clans of Rokugan. Naleesh has long struggled with the legacy, and it is only when she feels the legendary compassion of her former life does she feel truly connected to the soul of the Kami she bears.</p>"
+    }
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial",
+    "color": {
+      "primary": "whitesmoke",
+      "secondary": "darkgreen"
+    },
+    "status": "none",
+    "mon": {
+      "src" : "imperial.png",
+      "pos" : [ 290, 152 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-imperial.jpg",
+      "html": "<p>TBD</p>"
+    }
+  },
+  {
+    "id": "shadowlands",
+    "name": "Shadowlands",
+    "color": {
+      "primary": "darkgrey",
+      "secondary": "darkpurple"
+    },
+    "status": "none",
+    "mon": {
+      "src" : "shadowlands.png",
+      "pos" : [ 30, 510 ]
+    },
+    "details": {
+      "background" : "assets/images/details-bg-clan-shadowlands.jpg",
+      "html": "<p>TBD</p>"
+    }
+  }
+]
